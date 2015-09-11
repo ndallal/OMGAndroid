@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">OMG Android</string>
-
-    <string name="hello_world">Nava loves CS121!</string>
+    <string name="hint">A Name</string>
+    <string name="textview">Nava loves CS121!</string>
     <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
 </resources>
